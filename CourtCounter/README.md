@@ -6,7 +6,7 @@ A simple app that counts the scores between two teams through three/two pointers
 
 ## The App:
 
-![alt text](https://github.com/kunal-bhadra/GeekFinder-Content-Based-Recommender/blob/main/demo.gif)
+![alt text](https://github.com/kunal-bhadra/Android-Studio-Apps/blob/master/CourtCounter/demo.jpg)
 
 
 ## Connect with me:

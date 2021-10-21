@@ -6,7 +6,7 @@ A simple static card wishing a person Happy Birthday!
 
 ## The App:
 
-![alt text](https://github.com/kunal-bhadra/GeekFinder-Content-Based-Recommender/blob/main/demo.gif)
+![alt text](https://github.com/kunal-bhadra/Android-Studio-Apps/blob/master/HappyBirthday/demo.jpg)
 
 
 ## Connect with me:

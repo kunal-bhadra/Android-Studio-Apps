@@ -5,7 +5,7 @@ A home page of a Seven Eleven app which is a convenience store.
 
 ## The App:
 
-![alt text](https://github.com/kunal-bhadra/GeekFinder-Content-Based-Recommender/blob/main/demo.gif)
+![alt text](https://github.com/kunal-bhadra/Android-Studio-Apps/blob/master/SevenEleven/demo.jpg)
 
 
 ## Connect with me:

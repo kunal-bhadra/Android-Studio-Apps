@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/sev" />
+
+
+    <TextView
+        android:id="@+id/sevelen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="@android:color/white"
+        android:paddingTop="30dp"
+        android:paddingLeft="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="SEVEN ELEVEN EGYPT" />
+    <TextView
+        android:id="@+id/phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_below="@id/sevelen"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+        android:paddingTop="20dp"
+        android:paddingRight="30dp"
+        android:layout_alignParentRight="true"
+        android:text="Phone No: 9163955213" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_below="@id/phone"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/holo_orange_dark"
+        android:paddingTop="20dp"
+        android:paddingRight="30dp"
+        android:layout_alignParentRight="true"
+        android:text="Getcho cheap snacccs" />
+
+</RelativeLayout>
